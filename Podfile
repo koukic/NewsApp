@@ -8,7 +8,7 @@ target 'NewsApp' do
   # Pods for NewsApp
 
   pod 'lottie-ios'
-  pod 'SegementSlide'
+  pod 'SegementSlide', '3.0.0'
   pod 'ImpressiveNotifications'
 
 end

@@ -15,7 +15,7 @@ class BaseViewController:SegementSlideDefaultViewController {
         super.viewDidLoad()
 
         reloadData()
-        defaultSelectIndex = 0
+        defaultSelectedIndex = 0
     }
     
     override func segementSlideHeaderView() -> UIView {
